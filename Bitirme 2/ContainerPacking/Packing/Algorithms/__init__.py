@@ -1,0 +1,1 @@
+print("algortihm paketi baslatildi.")
